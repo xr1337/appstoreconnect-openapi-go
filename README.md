@@ -9,7 +9,7 @@ Client code generation was done with [OpenAPI Generator](https://github.com/Open
 
 ## Motivation
 
-When I was generating the code for my own use, I experience some difficulties with OpenAPI Generator.
+When I was generating the code for my own use, I experienced some difficulties with OpenAPI Generator.
 After fixing all the bugs, I thought it would be helpful to share this generated code with others.
 
 ## Installation
