@@ -12,6 +12,8 @@ Client code generation was done with [OpenAPI Generator](https://github.com/Open
 When I was generating the code for my own use, I experienced some difficulties with OpenAPI Generator.
 After fixing all the bugs, I thought it would be helpful to share this generated code with others.
 
+Thus I would appreciate a star if this project is useful to you.
+
 ## Installation
 
 Add the generated code to your project
