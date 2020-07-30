@@ -41,5 +41,15 @@ Checkout out the [example folder](https://github.com/xr1337/appstoreconnect-open
 
 Alternatively, OpenAPI generates a README.md file ([View here](https://github.com/xr1337/appstoreconnect-openapi-go/blob/master/generated/README.md)) to see what APIs that you can use
 
+## Regenerate
+
+The Makefile comes with a example docker command to regenerate the project.
+Requirements: [docker](https://www.docker.com/get-started)
+
+```bash
+make generate
+```
+
+The output will generate a new folder called `out`
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
