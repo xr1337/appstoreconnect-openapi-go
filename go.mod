@@ -1,4 +1,4 @@
-module appstoreopenapi
+module github.com/xr1337/appstoreconnect-openapi-go
 
 go 1.14
 
