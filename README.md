@@ -50,6 +50,8 @@ Requirements: [docker](https://www.docker.com/get-started)
 make generate
 ```
 
-The output will generate a new folder called `out`
+The output will generate a new folder called `out`.
+You may want to remove the generated go.mod and go.sum files.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
